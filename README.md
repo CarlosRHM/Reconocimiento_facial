@@ -25,7 +25,7 @@ Hubo 3 versiones diferentes del entrenamiento de la primera red:
       capas planas, una interna de 64 neuronas, y una de salida de 40
       neuronas, la entrada fue de los 202599 datos y salida de 40 etiquetas
       sin datos de prueba.
-      Esta fue la que dio peores resultados, no logrando aprender a lo largo
+      Esta fue la que dio peores resultados,  no logrando aprender a lo largo
       de 30 épocas, con una precisión menor del 10%, la función de costo no
       pudo ser minimizada, dando resultados cada vez más altos. Las etiquetas
       están en la forma de -1 y 1, por lo que se usó la función de activación
